@@ -21,3 +21,10 @@ https://docs.angularjs.org/guide
 bower使用方法
 https://www.codementor.io/bower/tutorial/beginner-tutorial-getting-started-bower-package-manager
 
+phonegap100
+http://bbs.phonegap100.com/thread-2047-1-1.html
+
+http://bbs.phonegap100.com/thread-2263-1-1.html
+
+
+
