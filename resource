@@ -14,3 +14,6 @@ https://github.com/gottaBoy/awesome-resources
 
 html5
 https://platform.html5.org/
+
+angularjs
+https://docs.angularjs.org/guide
