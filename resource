@@ -11,3 +11,6 @@ https://mango.github.io/slideout/
 
 awesome-resources
 https://github.com/gottaBoy/awesome-resources
+
+html5
+https://platform.html5.org/
