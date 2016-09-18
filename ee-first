@@ -1,0 +1,6 @@
+ee-first
+
+Install
+$ npm install ee-first
+API
+var first = require('ee-first')
