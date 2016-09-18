@@ -26,5 +26,7 @@ http://bbs.phonegap100.com/thread-2047-1-1.html
 
 http://bbs.phonegap100.com/thread-2263-1-1.html
 
+npm install -g browser-sync
+https://www.browsersync.io/
 
 
