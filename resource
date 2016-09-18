@@ -17,3 +17,7 @@ https://platform.html5.org/
 
 angularjs
 https://docs.angularjs.org/guide
+
+bower使用方法
+https://www.codementor.io/bower/tutorial/beginner-tutorial-getting-started-bower-package-manager
+
